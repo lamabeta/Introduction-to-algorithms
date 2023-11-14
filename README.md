@@ -1,4 +1,4 @@
-# Introduction to Algorithms
+# Introduction to Algorithms Project
 ### Objectives
 
 In this project, our main focus will be on understanding the fundamentals of algorithms, and their relationship with data structure.
