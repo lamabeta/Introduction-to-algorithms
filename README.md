@@ -1,4 +1,4 @@
-# Data Structure Project 01
+# Data Structure And Algorithms Project 02
 
 ### Objectives
 
