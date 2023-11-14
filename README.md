@@ -2,11 +2,11 @@
 
 ### Objectives
 
-In this project, our main emphasis will be on understanding the fundamentals of algorithms .
+In this project, our main focus will be on understanding the fundamentals of algorithms.
 
 ### Concepts
 
-These concepts
+The project solution heavily relies on these concepts as they form the core foundation. If any of these concepts are unfamiliar to you, we recommend referring to the provided resources for better understanding
 
 | Concept | Resources |
 | --- | ----------- |
@@ -15,11 +15,11 @@ These concepts
 
 
 ### Problem
+Provided to you a code snippet, optimize its algorithm by reducing unnecessary iterations or implementing a more efficient approach.
 
-The effect of the amount of storing it on the program’s performance
 
 ### Implementation
-Enhance the algorithm of the given code to improve its efficiency and optimize its performance ([add your code here](https://github.com/lamabeta/Introduction-to-algorithms/blob/main/PrintEvenNumbers.java))
+The current code is responsible of printing all even numbers from 1 to 100. You are requested to enhance the algorithm of the given code to improve its efficiency and optimize its performance ([add your code here](https://github.com/lamabeta/Introduction-to-algorithms/blob/main/PrintEvenNumbers.java))
  ```java
 public class PrintEvenNumbers {
     public static void main(String[] args) {
