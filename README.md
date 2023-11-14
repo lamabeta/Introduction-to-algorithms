@@ -1,8 +1,7 @@
-# Data Structure And Algorithms Project 02
-
+# Introduction to Algorithms
 ### Objectives
 
-In this project, our main focus will be on understanding the fundamentals of algorithms.
+In this project, our main focus will be on understanding the fundamentals of algorithms, and their relationship with data structure.
 
 ### Concepts
 
@@ -10,8 +9,8 @@ The project solution heavily relies on these concepts as they form the core foun
 
 | Concept | Resources |
 | --- | ----------- |
-| What Is An Algorithm | [click here](https://github.com/lamabeta/Introduction-to-algorithms/blob/main/what-is-an-algorithm.md) |
-
+| What Is An Algorithm | [What Is An Algorithm Concept](https://github.com/lamabeta/Introduction-to-algorithms/blob/main/resources/01-what-is-an-algorithm.md) |
+| The Relationship Between Data Structures and Algorithms | [Relationship Between Data Structures and Algorithms Concept](https://github.com/lamabeta/Introduction-to-algorithms/blob/main/resources/02-the-relationship-between-data-structures-and-algorithms.md) |
 
 
 ### Problem
