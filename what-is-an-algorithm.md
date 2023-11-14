@@ -12,7 +12,8 @@ Here's a simple algorithm that **outlines the steps** for drinking juice:
 3. Stop pouring when the desired amount of juice is in the glass.
 4. Close the lid or cap of the juice container tightly to preserve the remaining juice.
 5. Take small sips to drink the juice.
-What we are doing is, for a given problem (drinking juice), we are providing a step-bystep procedure for solving it.
+
+What we are doing is, for a given problem (drinking juice), we are providing a step by step procedure for solving it.
 
 When applied to computing, an algorithm refers to 
 > the set of instructions given to a computer to achieve a particular task.
