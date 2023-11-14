@@ -5,7 +5,8 @@ The tasks we do in our daily lives, such as waking up or going to work, can be s
 An algorithm is simply
 > a set of instructions for completing a specific task.
 
-Even a process as simple as  **drinking juice** can be considered an algorithm, as it involves **following a defined set of steps to achieve the task** .
+Even a process as simple as  **drinking juice** can be considered an algorithm, as it involves **following a defined set of steps to achieve the task**.
+
 Here's a simple algorithm that **outlines the steps** for drinking juice:
 1. Pick up the juice glass.
 2. Slowly pour the juice from the container into the glass.
@@ -23,7 +24,7 @@ When we write `code`, we are essentially creating algorithms for the computer to
 Here's an algorithm that stores two numbers, adds them, and prints the result using java:
 1. Create a variable "firstNumber" and give it a value of **3**.
 2. Create a variable "secondNumber" and give it a value of **4**.
-3. Add "first_number" and "second_number" together, and store the result in a new variable, let's call it "sum".
+3. Add "firstNumber" and "secondNumber" together, and store the result in a new variable, let's call it "sum".
 4. Print the value of "sum" to display the result.
 ```java
 public class SumCalculation {
@@ -36,5 +37,5 @@ public class SumCalculation {
 }
    ```
 There are **two** main criteria for judging the merits of algorithms: 
-1. `Correctness` (does the algorithm provide a **solution** to the problem in **a finite number of steps**?)
+1. `Correctness` (does the algorithm provide a **solution** to the problem in **a finite number of steps**?).
 2. `Efficiency` (how many **resources** -in terms of **memory** and **time**- does it take to **execute** ).
