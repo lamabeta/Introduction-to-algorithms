@@ -16,7 +16,7 @@ These concepts
 
 ### Problem
 
-The effect of the method of storing it on the program’s performance
+The effect of the amount of storing it on the program’s performance
 
 ### Implementation
 Enhance the algorithm of the given code to improve its efficiency and optimize its performance ([add your code here](https://github.com/lamabeta/Introduction-to-algorithms/blob/main/PrintEvenNumbers.java))
