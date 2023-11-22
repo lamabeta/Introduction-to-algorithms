@@ -5,7 +5,7 @@ In this project, our main focus will be on understanding the fundamentals of alg
 
 ### Concepts
 
-The project solution heavily relies on these concepts as they form the core foundation. If any of these concepts are unfamiliar to you, we recommend referring to the provided resources for better understanding
+The project solution heavily relies on these concepts as they form the core foundation. If any of these concepts are unfamiliar to you, we recommend referring to the provided resources for better understanding.
 
 | Concept | Resources |
 | --- | ----------- |
@@ -18,7 +18,7 @@ Provided to you a code snippet, optimize its algorithm by reducing unnecessary i
 
 
 ### Implementation
-The current code is responsible of printing all even numbers from 1 to 100. You are requested to enhance the algorithm of the given code to improve its efficiency and optimize its performance ([add your code here](https://github.com/lamabeta/Introduction-to-algorithms/blob/main/PrintEvenNumbers.java))
+The current code is responsible of printing all even numbers from 1 to 100. You are requested to enhance the algorithm of the given code to improve its efficiency and optimize its performance ([add your code here](https://github.com/lamabeta/Introduction-to-algorithms/blob/main/PrintEvenNumbers.java)).
  ```java
 public class PrintEvenNumbers {
     public static void main(String[] args) {
